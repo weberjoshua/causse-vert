@@ -1,0 +1,6 @@
+{
+  "name": "Causse Vert - Entretien de Jardins & Haies",
+  "description": "Services professionnels d'entretien d'espaces verts, taille de haies et tonte de pelouse à Lacapelle-Marival, Figeac et environs (Lot 46).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
